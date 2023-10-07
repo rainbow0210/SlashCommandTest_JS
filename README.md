@@ -1,4 +1,4 @@
-# Discord_SlashCommandTest
+# Discord_SlashCommandTest_JS
 ## Download
 [Click](https://github.com/rainbow0210/SlashCommandTest_JS/archive/refs/heads/main.zip)
 ## English
